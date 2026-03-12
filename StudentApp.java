@@ -25,8 +25,8 @@ class StudentRecord {
     }
 }
 
-// Class to demonstrate student record functionality
-class StudentApp {
+// Main class to demonstrate student record functionality
+public class StudentApp {
     public static void main(String[] args) {
         // Create Scanner object for user input
         Scanner scanner = new Scanner(System.in);
