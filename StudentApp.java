@@ -1,3 +1,6 @@
+/*CT100/G/22434/24
+KIBET NIMROD 
+GROUP A */
 import java.util.Scanner;
 
 // Class to store student details
